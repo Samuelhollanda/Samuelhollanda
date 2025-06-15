@@ -1,8 +1,7 @@
 ## Ola, Samuel Holanda aqui!!👋
 - 🌱 Eu atualmente estou estudando React Native e Node.js
-- 📫 Contate-me: samueloliveirad337@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Entusiasta em exercicios de logica
+- 🎓 Formaçao: Estudante de Analise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
