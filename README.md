@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Olá%20eu%20sou-Samuel%20Oliveira-blue?style=for-the-badge" alt="Samuel Oliveira"/>
+  <img src="https://img.shields.io/badge/Olá%20eu%20sou-Samuel%20Holanda-red?style=for-the-badge" alt="Samuel Oliveira"/>
 </p>
 
 <h1 align="center">👋 Bem-vindo ao meu perfil!</h1>
@@ -29,7 +29,7 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuelhollanda&theme=react) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuelhollanda&theme=codeSTACKr) 
 
 ---
 
