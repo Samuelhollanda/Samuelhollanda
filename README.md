@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/Olá%20eu%20sou-Samuel%20Holanda-red?style=for-the-badge" alt="Samuel Oliveira"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
 
 <h1 align="center">👋 Bem-vindo ao meu perfil!</h1>
