@@ -19,7 +19,7 @@
 
 ## Tecnologias & Ferramentas  
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
